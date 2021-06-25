@@ -18,6 +18,9 @@ module.exports = {
       maxWidth: {
         card: "920px",
       },
+      margin: {
+        22: "5.5rem",
+      },
     },
     fontFamily: {
       lexendDeca: ["Lexend Deca", "sans-serif"],
