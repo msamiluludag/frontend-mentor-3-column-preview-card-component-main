@@ -6,19 +6,9 @@ module.exports = {
     extend: {
       colors: {
         primary: {
-          orange: {
-            dark: "#BE6E18",
-            light: "hsl(31, 77%, 52%)",
-          },
-          cyan: {
-            dark: "#00393D",
-            light: "hsl(184, 100%, 22%)",
-          },
-
-          darkCyan: {
-            dark: "#000F0F",
-            light: "hsl(179, 100%, 13%)",
-          },
+          orange: "hsl(31, 77%, 52%)",
+          cyan: "hsl(184, 100%, 22%)",
+          darkCyan: "hsl(179, 100%, 13%)",
           neutralGray: "hsl(0, 0%, 95%)",
         },
       },
